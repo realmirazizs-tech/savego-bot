@@ -1,0 +1,5 @@
+python-telegram-bot>=22,<23
+yt-dlp[default]
+python-dotenv
+gallery-dl
+Pillow
